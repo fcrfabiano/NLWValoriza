@@ -7,7 +7,7 @@ O projeto NLWValoriza tem como objetivo a troca mensagens de elogios entre pesso
 - 1. Não é permitido cadastrar mais de um usuário com o mesmo e-mail
 - 2. Não é permitido cadastrar usuário sem o e-mail
 - Cadastro de TAG
-- 1. Não é permitido cadstrar mais de uma tag com o mesmo nome
+- 1. Não é permitido cadastrar mais de uma tag com o mesmo nome
 - 2. Não é permitido cadastrar tag sem nome
 - 3. Não é permitido o cadastro por usuários que não sejam administradores
 - Cadastro de elogios
