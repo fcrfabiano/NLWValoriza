@@ -25,6 +25,7 @@ O projeto NLWValoriza tem como objetivo a troca mensagens de elogios entre pesso
 - POO
 - S.O.L.I.D
 - MSC
+- Class Transform
 
 
 ## Como instalar o projeto
